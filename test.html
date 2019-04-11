@@ -10,10 +10,10 @@
 		<script type="text/javascript">
 			$(document).ready(function() {
 				var folder = "./bless/";
-				console.log('folder selected');
 				$.ajax({
 				    url : folder,
 				    success: function (data) {
+				    	console.log('looking for images')
 				        $(data).find("a").attr("href", function (i, val) {
 				        	console.log('image search');
 				            if( val.match(/\.(jpg|png)$/) ) { 
