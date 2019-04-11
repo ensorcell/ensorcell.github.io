@@ -1,3 +1,7 @@
+@font-face{
+    font-family:Base;
+    src:url(./chapaza.ttf);
+}
 body{
     background: #36393f;
 }
@@ -30,8 +34,10 @@ li{
 a{
     font-size: 12pt;
     color: #53a38f;
+    font-family: Base;
 }
 p{
     font-size: 16pt;
     color: #53a38f;
+    font-family: Base;
 }
