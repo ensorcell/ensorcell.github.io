@@ -10,12 +10,16 @@
 		<script type="text/javascript">
 			$(document).ready(function() {
 				var folder = "./bless/";
+				console.log('folder selected');
 				$.ajax({
 				    url : folder,
+				    console.log('folder accepted');
 				    success: function (data) {
 				        $(data).find("a").attr("href", function (i, val) {
+				        	console.log('image search');
 				            if( val.match(/\.(jpg|png)$/) ) { 
 				                $(".bls").append("<img class='blesspic' src='"+folder+val+"'></img>");
+				                console.log('image added');
 				            } 
 				        });
 				    }
