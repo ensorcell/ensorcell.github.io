@@ -13,7 +13,6 @@
 				console.log('folder selected');
 				$.ajax({
 				    url : folder,
-				    console.log('folder accepted');
 				    success: function (data) {
 				        $(data).find("a").attr("href", function (i, val) {
 				        	console.log('image search');
