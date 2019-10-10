@@ -43,7 +43,7 @@ var overviewerConfig = {
         {
             "name": "Spawn Area",
             "zoomLevels": 7,
-            "defaultZoom": 5,
+            "defaultZoom": 6,
             "maxZoom": 7,
             "path": "Spawn Area",
             "base": "",
