@@ -65,7 +65,7 @@ var overviewerConfig = {
         },
         {
             "name": "Full Map",
-            "zoomLevels": 8,
+            "zoomLevels": 9,
             "defaultZoom": 4,
             "maxZoom": 8,
             "path": "Full Map",
