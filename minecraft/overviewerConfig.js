@@ -43,7 +43,7 @@ var overviewerConfig = {
         {
             "name": "Spawn Area",
             "zoomLevels": 7,
-            "defaultZoom": 6,
+            "defaultZoom": 7,
             "maxZoom": 7,
             "path": "Spawn Area",
             "base": "",
@@ -67,7 +67,7 @@ var overviewerConfig = {
             "name": "Full Map",
             "zoomLevels": 9,
             "defaultZoom": 4,
-            "maxZoom": 8,
+            "maxZoom": 9,
             "path": "Full Map",
             "base": "",
             "bgcolor": "#1a1a1a",
