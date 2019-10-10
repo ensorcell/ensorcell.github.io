@@ -55,9 +55,9 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                260,
-                64,
-                460
+                220,
+                96,
+                422
             ],
             "minZoom": 4,
             "spawn": false,
@@ -65,9 +65,9 @@ var overviewerConfig = {
         },
         {
             "name": "Full Map",
-            "zoomLevels": 9,
+            "zoomLevels": 8,
             "defaultZoom": 4,
-            "maxZoom": 9,
+            "maxZoom": 8,
             "path": "Full Map",
             "base": "",
             "bgcolor": "#1a1a1a",
