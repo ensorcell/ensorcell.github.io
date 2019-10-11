@@ -23,11 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "ensorcraft"
+        "ensorcraft - overworld"
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1570674190",
+        "cacheTag": "1570758606",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -48,7 +48,7 @@ var overviewerConfig = {
             "path": "Spawn Area",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "ensorcraft",
+            "world": "ensorcraft - overworld",
             "last_rendertime": 1570670348,
             "imgextension": "jpg",
             "isOverlay": false,
@@ -67,11 +67,11 @@ var overviewerConfig = {
             "name": "Full Map",
             "zoomLevels": 9,
             "defaultZoom": 4,
-            "maxZoom": 9,
+            "maxZoom": 8,
             "path": "Full Map",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "ensorcraft",
+            "world": "ensorcraft - overworld",
             "last_rendertime": 1570670348,
             "imgextension": "jpg",
             "isOverlay": false,
