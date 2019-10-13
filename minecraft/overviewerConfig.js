@@ -23,7 +23,7 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "ensorcraft - overworld"
+        "ensorcraft"
     ],
     "map": {
         "debug": true,
