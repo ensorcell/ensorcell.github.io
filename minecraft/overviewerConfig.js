@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1571618836",
+        "cacheTag": "1571636873",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "ensorcraft",
-            "last_rendertime": 1571618694,
+            "last_rendertime": 1571631743,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -72,7 +72,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "ensorcraft",
-            "last_rendertime": 1571618694,
+            "last_rendertime": 1571631743,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
