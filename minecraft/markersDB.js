@@ -1,5 +1,5 @@
 var markersDB={
-  "Nether_Portals8eb7_1cc7": {
+  "Nether_Portalseeb7_bca8": {
     "created": false,
     "raw": [
       {
@@ -57,6 +57,13 @@ var markersDB={
         "z": 1090,
         "text": "Mountain Climb Area",
         "hovertext": "Mountain Climb Area"
+      },
+      {
+        "x": 593,
+        "y": 65,
+        "z": -986,
+        "text": "Cave's Base",
+        "hovertext": "Cave's Base"
       }
     ],
     "name": "Nether Portals"

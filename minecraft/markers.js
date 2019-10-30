@@ -1,7 +1,7 @@
 var markers={
   "Full Map": [
     {
-      "groupName": "Nether_Portals8eb7_1cc7",
+      "groupName": "Nether_Portalseeb7_bca8",
       "displayName": "Nether Portals",
       "icon": "icons/portal.png",
       "createInfoWindow": true,
