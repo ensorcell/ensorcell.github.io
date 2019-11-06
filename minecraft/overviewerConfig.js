@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1572930973",
+        "cacheTag": "1573011653",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -72,7 +72,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#36393f",
             "world": "ensorcraft",
-            "last_rendertime": 1572930648,
+            "last_rendertime": 1573011556,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
